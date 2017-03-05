@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/builtin_icons">
+        <file>icons/new_data.png</file>
+        <file>icons/control_play_blue.png</file>
+        <file>icons/cross.png</file>
+        <file>icons/dice.png</file>
+        <file>icons/draw_eraser.png</file>
+        <file>icons/file_save_as.png</file>
+        <file>icons/gear_in.png</file>
+        <file>icons/heart.png</file>
+        <file>icons/information.png</file>
+        <file>icons/page.png</file>
+        <file>icons/setting_tools.png</file>
+        <file>icons/walk.png</file>
+        <file>icons/file_manager.png</file>
+        <file>icons/control_play.png</file>
+        <file>icons/contrast.png</file>
+    </qresource>
+</RCC>
